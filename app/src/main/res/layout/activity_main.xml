@@ -11,6 +11,7 @@
         android:layout_height="match_parent"
         android:contentDescription="TODO"
         android:scaleType="centerCrop"
+        android:src="@drawable/img"
         tools:layout_editor_absoluteX="-16dp"
         tools:layout_editor_absoluteY="-72dp" />
 
